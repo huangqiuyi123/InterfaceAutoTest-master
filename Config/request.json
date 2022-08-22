@@ -1,0 +1,6 @@
+{
+  "login": {"account":"niki","password":"123456"},
+  "add_link": {"linkId":"0","title":"","url":"","type":1},
+  "update_link": {"linkId":"0","title":"","url":"https://www.baidu.com","type":1}
+
+}

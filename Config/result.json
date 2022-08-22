@@ -1,0 +1,10 @@
+{
+   "General_Response": {
+    "code": 200,
+    "msg": "Success"
+},
+  "Failed_Response": {
+    "code": 400,
+    "msg": "Success"
+}
+}
